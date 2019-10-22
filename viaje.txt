@@ -1,3 +1,9 @@
 listado de tareas
 -----------------
 - zapatos
+- ropa deportiva
+- mochila
+
+PICNIC
+----------------
+Pan
